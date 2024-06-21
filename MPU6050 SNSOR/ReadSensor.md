@@ -1,4 +1,4 @@
-Certainly! Here's a professional-level `README.md` file for your MPU6050 Sensor Data with Kalman Filter project:
+Certainly! Here's a  `README.md` file for your MPU6050 Sensor Data with Kalman Filter project:
 
 ```markdown
 # MPU6050 Sensor Data with Kalman Filter
@@ -313,4 +313,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Special thanks to the creators of the Kalman filter for making advanced filtering accessible to all.
 ```
 
-This `README.md` file provides a comprehensive and professional overview of your project, including detailed explanations and structured content. Feel free to adjust any section to better fit your project's specifics.
+This `README.md` file provides a comprehensive and  overview of your project, including detailed explanations and structured content. Feel free to adjust any section to better fit your project's specifics.
